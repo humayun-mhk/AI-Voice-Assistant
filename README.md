@@ -1,1 +1,0 @@
-A real-time voice-enabled AI assistant for hotel guest services, built with FastAPI, React, and AWS.
